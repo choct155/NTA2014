@@ -46,7 +46,7 @@ $$
 
 ## Finances of General Purpose Jurisdictions in Colorado
 
-!['CO_fin']('CO_gen_juris_fin.png')
+!['CO_fin'](https://github.com/choct155/NTA2014/blob/master/CO_gen_juris_fin.png)
 
 ---
 
