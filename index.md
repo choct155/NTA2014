@@ -85,9 +85,9 @@ Before knowing whether TELs align the actions of elected officials and voter pre
 
 --- &twocol
 
-*** =left
-  
 ## What Do TELs Look Like in Colorado?
+
+*** =left
   
 ### Taxpayer's Bill of Rights (TABOR)
   + Voter approval required for tax increases;
@@ -98,23 +98,28 @@ Before knowing whether TELs align the actions of elected officials and voter pre
 ### Gallagher Amendment (GA)
   + Holds constant the statewide residential share of property assessment value.
   
-*** =right
-
 ### Statewide Limit on Property Tax Revenue (SLPTR)
   + Restricts annual growth in property tax revenue to 5.5%.
+  
+*** =right
 
 <div style='text-align: center;'>
   <img width='500' src=https://raw.githubusercontent.com/choct155/CBO_Talk/master/TEL_intensity_2009.png />
 </div>
 
----
+--- &twocol
 
 ## Finances of General Purpose Jurisdictions in Colorado
 
+*** =left
 <div style='text-align: center;'>
   <img width='400' src=https://raw.githubusercontent.com/choct155/NTA2014/master/CO_gen_juris_fin.png />
 </div>
 
+*** =right
++ Property taxes are predominately levied by counties
++ Taxes are the dominant revenue source for GPJs
++ Counties play a major role in the delivery of direct services
 
 
 ---
@@ -133,6 +138,7 @@ Before knowing whether TELs align the actions of elected officials and voter pre
 --- &twocol
 
 ## Can Exemption Be Predicted with Socioeconomic Indicators?
+
 # Data (1993-2009)
 
 *** =left
@@ -190,10 +196,12 @@ Probabilities were recoverable via Platt Scaling.
 </div>
 
 
----
+--- &twocol_right
   
 ## What Role Does Ballot Design Play?
-  
+
+*** =left
+
 Operationalizing Ballots
 + Revenue Source
 + Expenditure Target
@@ -203,6 +211,19 @@ Additional Variables of Interest
 + Propensity to Exempt
 + TABOR/SLPTR Constraint
 + Gallagher Ratio
+
+*** =right
+
+Why TEL Intensity and the Gallagher Ratio?
+
+<div style='text-align: left;'>
+  <img width='700' src=https://raw.githubusercontent.com/choct155/CBO_Talk/master/TABOR_vs_SLPTR.png />
+</div>
+
+<div style='text-align: left;'>
+  <img width='700' src=https://raw.githubusercontent.com/choct155/CBO_Talk/master/gallagher_dist.png />
+</div>
+
 
 ---
   
@@ -230,8 +251,8 @@ property tax rate (prop_change).
 ## Questions?
 
 <div style='text-align: center;'>
-  <img width='200' src=http://www.codeinstitute.net/wp-content/uploads/2014/10/python-logo.png />
-  <img width='200' src=http://ipython.org/_images/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png />
-  <img width='200' src=http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png />
+  <img width='400' src=http://www.codeinstitute.net/wp-content/uploads/2014/10/python-logo.png />
+  <img width='400' src=http://ipython.org/_images/9_home_fperez_prof_grants_1207-sloan-ipython_proposal_fig_ipython-notebook-specgram.png />
+  <img width='300' src=http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png />
   <img width='200' src=http://cran.us.r-project.org/Rlogo.jpg />
 </div>
