@@ -31,13 +31,18 @@
   left: 60px;
 }
 
+.title-slide {
+  background-color: #331FA3; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
+}
 
 /* Styles for Title Slide */
 .title-slide hgroup > h1{
+  background-image: url('https://github.com/choct155/CBO_Talk/blob/master/TEL_intensity_2009.png');
   font-family: 'Oswald', sans-serif;
 }
 
 .title-slide hgroup > h2{
+  background-image: url(https://github.com/choct155/CBO_Talk/blob/master/TEL_intensity_2009.png);
   font-family: 'Oswald', 'Calibri', sans-serif;
 }
 
@@ -357,10 +362,10 @@ pre code {
 }
 
 .title-slide hgroup > h1{
- font-family: 'Oswald', 'Helvetica', sanserif; 
+ font-family: 'Oswald', 'Helvetica', sanserif;
 }
 
-.title-slide hgroup > h1, 
+.title-slide hgroup > h1,
 .title-slide hgroup > h2 {
   color: #535E43 ;  /* ; #EF5150*/
 }
