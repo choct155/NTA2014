@@ -89,17 +89,16 @@ Before knowing whether TELs align the actions of elected officials and voter pre
 
 *** =left
   
-### Taxpayer's Bill of Rights (TABOR)
-  + Voter approval required for tax increases;
-  + Limit on the annual growth in revenue;
-  + Creates obstacles for modification of existing limits; and,
-  + Permits local overrides (i.e. DeBrucing).
+Taxpayer's Bill of Rights (TABOR)
+  + Requires voter approval for tax increases
+  + Limits annual growth in revenue
+  + Permits local overrides (i.e. DeBrucing)
   
-### Gallagher Amendment (GA)
-  + Holds constant the statewide residential share of property assessment value.
+Gallagher Amendment (GA)
+  + Holds constant the statewide residential share of property assessment value
   
-### Statewide Limit on Property Tax Revenue (SLPTR)
-  + Restricts annual growth in property tax revenue to 5.5%.
+Statewide Limit on Property Tax Revenue (SLPTR)
+  + Restricts annual growth in property tax revenue to 5.5%
   
 *** =right
 
@@ -117,6 +116,8 @@ Before knowing whether TELs align the actions of elected officials and voter pre
 </div>
 
 *** =right
+
+<br><br>
 + Property taxes are predominately levied by counties
 + Taxes are the dominant revenue source for GPJs
 + Counties play a major role in the delivery of direct services
@@ -256,3 +257,11 @@ property tax rate (prop_change).
   <img width='300' src=http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png />
   <img width='200' src=http://cran.us.r-project.org/Rlogo.jpg />
 </div>
+
+---
+
+<div style='text-align: center;'>
+  <img width='750' src=https://raw.githubusercontent.com/choct155/NTA2014/master/exempt_results.png />
+</div>
+
+
