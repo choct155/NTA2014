@@ -154,6 +154,15 @@ Statewide Limit on Property Tax Revenue (SLPTR)
 + Ballot-level indicators (e.g. requested property tax rate increase)
 + 527 votes
 
+---
+
+## Can Exemption Be Predicted with Socioeconomic Indicators?
+# Vote Spread in CenStat Space
+
+<div style='text-align: center;'>
+  <img width='900' src=https://raw.githubusercontent.com/choct155/NTA2014/master/votes_pca_view.png />
+</div>
+
 
 --- &twocol
 
@@ -190,7 +199,7 @@ What are [Support Vector Machines](https://www.youtube.com/watch?v=3liCbRZPrZA)?
   
   Classification Accuracy = 58.3%
 
-Probabilities were recoverable via Platt Scaling.
+Probabilities were recoverable via [Platt Scaling](http://en.wikipedia.org/wiki/Platt_scaling).
 
 <div style='text-align: center;'>
   <img width='800' src=https://raw.githubusercontent.com/choct155/NTA2014/master/vote_probs.png />
@@ -249,7 +258,7 @@ property tax rate (prop_change).
 
 ---
 
-## Questions?
+## Questions?  [https://github.com/choct155/NTA2014](https://github.com/choct155/NTA2014)
 
 <div style='text-align: center;'>
   <img width='400' src=http://www.codeinstitute.net/wp-content/uploads/2014/10/python-logo.png />
@@ -264,4 +273,23 @@ property tax rate (prop_change).
   <img width='750' src=https://raw.githubusercontent.com/choct155/NTA2014/master/exempt_results.png />
 </div>
 
+---
+
+
+<div style='text-align: center;'>
+  <img width='900' src=https://raw.githubusercontent.com/choct155/NTA2014/master/ols_resid_by_obs.png />
+  <img width='900' src=https://raw.githubusercontent.com/choct155/NTA2014/master/ols_resid_dist.png />
+</div>
+
+---
+
+<div style='text-align: center;'>
+  <img width='900' src=https://raw.githubusercontent.com/choct155/NTA2014/master/exmpt_partial_reg.png />
+</div>
+
+---
+
+<div style='text-align: center;'>
+  <img width='1000' src=https://raw.githubusercontent.com/choct155/NTA2014/master/exmpt_dist_hyperplane.png />
+</div>
 
